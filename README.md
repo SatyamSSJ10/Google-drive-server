@@ -10,9 +10,13 @@
 
 ### DOCS
 ```https://developers.google.com/identity/protocols/oauth2/javascript-implicit-flow```
+
 ```https://developers.google.com/drive/api/guides/about-sdk```
+
 ```https://developers.google.com/drive/api/reference/rest/v3```
+
 you may also read a bit about express-session if you want to customize session implementation.
 
 ### MISC
+
 ```https://accounts.google.com/.well-known/openid-configuration```
