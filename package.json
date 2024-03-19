@@ -1,0 +1,20 @@
+{
+  "name": "driveserver",
+  "version": "1.0.0",
+  "description": "Make your Google Drive a File Server. Current Implementation is of Images. Making it as Image Server.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "drive",
+    "server",
+    "make",
+    "google",
+    "drive",
+    "server"
+  ],
+  "author": "SatyamSSJ10",
+  "license": "ISC"
+}
