@@ -39,7 +39,7 @@ app.use(
     resave: false,
     saveUninitialized: false,
     cookie: {
-      expires: 60 * 60 * 1000,
+      expires: 60 * 60 * 1000, //Set to 3600 seconds because google oauth token expires in same
     },
   })
 );
