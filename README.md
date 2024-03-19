@@ -1,4 +1,4 @@
-## You definitely need some knowledge on how to make it work. This is just a template and an example of how you can make it work. make with Rest API, all functions in ```google.js``` to use.
+## You definitely need some knowledge on how to make it work. This is just a template and an example of how you can make it work. make with Rest API, all functions in ```APIs/google.js``` to use.
 
 ``` npm install express cors body-parser cookie-parser express-session content-type raw-body express-rate-limit connect-mongodb-sesssion ejs```
 
